@@ -1,6 +1,8 @@
 <div>
   <h3 align="center">A FullStack Devloper</h3>
-<img align="center" alt="coding" height="55%" width="100%" src="https://www.shootdartsolutions.com/img/service/web-design.gif"></img>
+<img align="center" alt="coding" height="50%" width="100%" src="https://www.shootdartsolutions.com/img/service/web-design.gif"></img>
+<br/>
+<br/>
 💫 About Me:
 <br></br>
 🥳 Me Dharun Here<br>👉 I’m a ambitious and self taught full-stack developer 🖥️<br>👉 Lives in Coimbatore<br><br>
