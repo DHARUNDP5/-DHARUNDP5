@@ -17,9 +17,9 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/dharun dp5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dharun dp5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dharun prakash k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharun prakash k" height="30" width="40" /></a>
-<a href="https://fb.com/dharun dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dharun dp" height="30" width="40" /></a>
-<a href="https://instagram.com/dp555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dp555" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dharun prakash k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DHARUN PRAKASH K" height="30" width="40" /></a>
+<a href="https://fb.com/Dharun Dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dharun dp" height="30" width="40" /></a>
+<a href="https://instagram.com/_dp_555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dp555" height="30" width="40" /></a>
 </p> 
 
 # 💻 Tech Stack:
