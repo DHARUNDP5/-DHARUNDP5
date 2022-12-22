@@ -1,5 +1,5 @@
 <div>
-  <h3 align="center">A FullStack Devloper</h3>
+  <h3 align="center">A FullStack Devloper(MERN)</h3>
 <img align="center" alt="coding" height="50%" width="100%" src="https://www.shootdartsolutions.com/img/service/web-design.gif"></img>
 <br/>
 <br/>
