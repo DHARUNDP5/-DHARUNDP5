@@ -9,9 +9,9 @@
 
 "Make it work, make it right, make it fast."
 
-* 🌍  I'm based in Indian
+* 🌍  I'm Indian
 * ✉️  You can contact me at [dharunprakshkdp@gmail.com](mailto:dharunprakshkdp@gmail.com)
-* 🧠  I'm learning Next.js Typescript
+* 🧠  I'm learning Next.js,Typescript.
 
 
 ## 🌐 Socials:
