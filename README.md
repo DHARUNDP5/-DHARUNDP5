@@ -38,7 +38,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DHARUNDP5&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DHARUNDP5&show_icons=true&locale=en&layout=compact" alt="DHARUNDP5" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DHARUNDP5&show_icons=true&locale=en&layout=compact" alt="DHARUNDP5" /></p> -->
 <br><br><br><br><br><br><br>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DHARUNDP5&show_icons=true&locale=en" alt="DHARUNDP5" /></p> -->
