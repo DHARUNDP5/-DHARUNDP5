@@ -46,7 +46,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DHARUNDP5&theme=blue-green&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=DHARUNDP5&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DHARUNDP5&" alt="DHARUNDP5" /></p>   -->
+
 
 # 📈 GitHub Graph
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=DHARUNDP5&bg_color=040f0f&color=22c55e&line=ec4899&point=22c55e&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
