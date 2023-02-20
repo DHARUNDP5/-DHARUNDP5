@@ -1,5 +1,5 @@
 <div>
-  <h3 align="center">A FullStack Devloper</h3>
+  <h3 align="center">A FullStack Developer</h3>
 <img align="center" alt="coding" height="50%" width="100%" src="https://www.shootdartsolutions.com/img/service/web-design.gif"></img>
 <br/>
 <br/>
@@ -11,7 +11,7 @@
 
 * 🌍  I'm Indian
 * ✉️  You can contact me at [dharunprakshkdp@gmail.com](mailto:dharunprakshkdp@gmail.com)
-* 🧠  I'm learning Vue.jsNext.js,Typescript
+* 🧠  I'm learning Vue.js,Next.js,Typescript
 
 
 ## 🌐 Socials:
@@ -39,7 +39,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DHARUNDP5&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DHARUNDP5&show_icons=true&locale=en&layout=compact" alt="DHARUNDP5" /></p> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHARUNDP5&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-status.vercel.app/api/top-langs/?username=DHARUNDP5&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DHARUNDP5&show_icons=true&locale=en" alt="DHARUNDP5" /></p> -->
 
