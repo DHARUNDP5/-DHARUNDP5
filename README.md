@@ -42,6 +42,8 @@
 <br><br><br><br><br><br><br>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DHARUNDP5&show_icons=true&locale=en" alt="DHARUNDP5" /></p> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=DHARUNDP5&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHARUNDP5&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=DHARUNDP5&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DHARUNDP5&" alt="DHARUNDP5" /></p>  
 
