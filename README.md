@@ -39,11 +39,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DHARUNDP5&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DHARUNDP5&show_icons=true&locale=en&layout=compact" alt="DHARUNDP5" /></p> -->
-![](https://github-readme-status.vercel.app/api/top-langs/?username=DHARUNDP5&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHARUNDP5&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DHARUNDP5&show_icons=true&locale=en" alt="DHARUNDP5" /></p> -->
 
-![](https://github-readme-status.vercel.app/api?username=DHARUNDP5&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=DHARUNDP5&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DHARUNDP5&theme=blue-green&hide_border=false)<br/>
 
